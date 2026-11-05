@@ -1,8 +1,6 @@
 spring:
   application:
     name: CONFIG-SERVICE
-server:
-  port: 8085
 
 eureka:
   instance:
